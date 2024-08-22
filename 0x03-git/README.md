@@ -1,2 +1,2 @@
-second readme to write under this project
-
+echo "Readme"
+echo "ALX"
